@@ -40,4 +40,4 @@
 
 <br />
  
-![Snake animation](https://github.com/PhachunterBr/PhachunterBr/blob/output/github-contribution-grid-snake.sv)
+![Snake animation](https://github.com/PhachunterBr/PhachunterBr/blob/output/github-contribution-grid-snake.svg)
