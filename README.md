@@ -16,7 +16,6 @@
 ## Ferramentas e Frameworks:
 
 <table style="overflow:hidden">
-  <tr>
     <td align="center" width="96">
       <a href="#lua">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
@@ -35,6 +34,14 @@
       </a>
       <br>CSS
     </td>
+      <tr>
+    <td align="center" width="96">
+      <a href="#javascript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JavScript" />
+      </a>
+      <br>JavaScript
+    </td>
+  <tr>
   </tr>
 </table>
 
